@@ -39,10 +39,11 @@ You can install the required Python packages using `pip`:
 
 ```bash
 pip install opencv-python numpy matplotlib
+```
 
 ## Installation
-
-git clone 
+```bash
+git clone https://github.com/Tajamul21/CapillaryFlowTracker-Salt-Concentration-Analysis-with-Computer-Vision.git
 
 
 
