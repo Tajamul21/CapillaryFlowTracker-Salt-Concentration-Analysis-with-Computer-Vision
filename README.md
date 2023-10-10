@@ -25,6 +25,14 @@ Fluid motion and capillary movement analysis are important in various scientific
 - Hue-based color segmentation for extracting relevant features.
 - Contour detection to identify capillary boundaries.
 - Example scripts for image and video processing.
+- Salt Concentration Resistance and tracking
+- Finding the rightmost point and plotting the variation of direction of fluid with respect to time.
+
+
+## Installation
+```bash
+git clone https://github.com/Tajamul21/CapillaryFlowTracker-Salt-Concentration-Analysis-with-Computer-Vision.git
+```
 
 ## Requirements
 
@@ -40,10 +48,6 @@ You can install the required Python packages using `pip`:
 ```bash
 pip install opencv-python numpy matplotlib
 ```
-
-## Installation
-```bash
-git clone https://github.com/Tajamul21/CapillaryFlowTracker-Salt-Concentration-Analysis-with-Computer-Vision.git
 
 
 
