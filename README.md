@@ -12,6 +12,7 @@ This repository contains Python code for analyzing fluid motion and capillary mo
 - [Requirements](#requirements)
 - [Usage](#usage)
 - [Examples](#examples)
+- [Data](#data)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -49,6 +50,21 @@ You can install the required Python packages using `pip`:
 pip install opencv-python numpy matplotlib
 ```
 
+## Data
+
+In this project, we provide sample input and output videos for your reference. You can access these videos from the following Google Drive folder:
+
+- [Input and Output Videos](https://drive.google.com/file/d/1WlYiBoNhCNpMWUl0XJVADW4c3iXxnd2R/view?usp=sharing)
+
+1. Click on the provided link to open the Google Drive folder.
+
+2. In the folder, you will find the following videos:
+   - `input_video.mp4`: Sample input video used for fluid motion analysis.
+   - `output_video.mp4`: Sample output video with visual annotations.
+
+3. You can download these videos by selecting them and clicking on the "Download" option.
+
+Feel free to use these sample videos to test the provided scripts and explore the fluid motion and capillary movement analysis process.
 
 
 
